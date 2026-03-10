@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/source/" />
+  <Folder Name="/source/Core/">
+    <Project Path="SVL.Core.Application/SVL.Core.Application.csproj" Id="b4b94429-5bf3-4e25-891b-ab4ad3a423c2" />
+    <Project Path="SVL.Core.Domain/SVL.Core.Domain.csproj" Id="d73534dc-5c26-4294-97a2-c2f88cf5575d" />
+  </Folder>
+  <Folder Name="/source/Infrastructure/">
+    <Project Path="SVL.Infrastructure.Persistence/SVL.Infrastructure.Persistence.csproj" />
+  </Folder>
+  <Folder Name="/source/Presentation/">
+    <Project Path="SVL.WebApi/SVL.WebApi.csproj" />
+  </Folder>
+</Solution>
