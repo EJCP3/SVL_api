@@ -3,6 +3,13 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+
+appsettings.Development.json
+.env
+.env.local
+secrets.json
+
+
 # User-specific files
 *.rsuser
 *.suo
